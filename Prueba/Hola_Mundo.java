@@ -1,3 +1,8 @@
-System.out.print("Hola mundo");
+public static void ci () {
+	System.out.print("Hola mundo");
 
-System.out.print("cici");
+	System.out.print("cici");
+}
+
+
+
